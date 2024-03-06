@@ -1,0 +1,68 @@
+body,td,tr,pre,p {
+	background-color: #FFFFFF;
+	font-size: 16px;
+}
+.kopje {
+	FONT:  TEXT-TRANSFORM: capitalize;
+	BACKGROUND-COLOR: #669999;
+	color: #FFFFFF;
+	text-transform: uppercase;
+	font-weight: bold;
+	letter-spacing: 0.1em;
+	text-align: center;
+	padding: 5px;
+}
+.links {
+	FONT-WEIGHT: 200; COLOR: #660099}
+a:link {
+	color: #6666CC;
+}
+a:visited {
+	color: #333366;
+}
+.groot {
+	FONT-WEIGHT: bold; FONT-SIZE: 200%; 
+}
+.klein {
+	FONT-SIZE: 90%; 
+}
+.fotobijschrift {
+	font-size: 0.63em;
+}
+.fotolinks {
+	font-size: 0.63em;
+	text-align: center;
+	line-height: 2em;
+	float: left;
+	margin-right: 20px;
+}
+.fotocenter {
+	font-size: 0.63em;
+	text-align: center;
+	line-height: 2em;
+}
+.fotorechts {
+	font-size: 0.63em;
+	text-align: center;
+	float: right;
+	margin-left: 20px;
+}
+#bio {
+	display: none;
+}
+h3 {
+	font-size: 2em;
+	font-weight: bold;
+	color: #669999;
+}
+p.datum {
+	font-weight: bold;
+	margin-top: 30px;
+}
+article {
+	clear: both;
+	padding-bottom: 36px;
+	border-bottom-style: double;
+	border-bottom-color: crimson;
+	border-bottom-width: thin;
+	}

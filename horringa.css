@@ -1,0 +1,22 @@
+.kopje {
+font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; background-color: #669966; text-transform: capitalize
+}
+.links {
+font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; font-style: normal; font-weight: 200; font-variant: normal; color: #000000
+}
+.body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color: #FFFFFF;
+	font-size: 10pt;
+	font-weight: normal;
+
+}
+.groot {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14pt;
+	font-weight: bold;
+}
+.klein {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+}

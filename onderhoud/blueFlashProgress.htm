@@ -1,0 +1,43 @@
+<html>
+<head>
+	<title>File Upload in Progress...</title>
+<script>
+//--- BEGIN PlugIn functions
+
+//Return the popup window size
+function getProgressWindowSize() {
+  return "300,100";
+}
+
+function getProgressWindowTitle() {
+  return "Blue Flash Progress Bar";
+}
+
+function getProgressWindowFiles() {
+  return "blueFlashProgress.htm,blue_progress.swf";
+}
+
+//--- END PlugIn functions
+
+</script>
+<style type="text/css">
+BODY {
+  margin: 0px, 0px, 0px, 0px;
+  padding: 0px, 0px, 0px, 0px;
+}
+</style>
+</head>
+<body leftmargin=0 topmargin=0>
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="300" height="100">
+  <param name=movie value="blue_progress.swf">
+  <PARAM NAME=wmode VALUE=transparent>
+  <PARAM NAME=menu VALUE=false>
+  <PARAM NAME=scale VALUE=exactfit>
+  <PARAM NAME=salign VALUE=L>
+  <param name=quality value=high>
+  <PARAM NAME=bgcolor VALUE=#000000>
+  <embed src="blue_progress.swf" wmode=transparent menu=false quality=high scale=exactfit salign=L bgcolor=#000000 pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="300" height="100">
+  </embed>
+</object>  
+</body>
+</html>
