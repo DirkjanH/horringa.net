@@ -12,7 +12,7 @@
 <?php
 $url = urldecode($_GET['flyer']);
 $link = $_GET['link'];
-echo "<a href=\"$link\" target=\"_blank\"><img src=\"$url\" alt=\"digiflyer\" border=\"1\"></a>"; 
+echo "<a href=\"$link\" target=\"_blank\"><img src=\"$url\" alt=\"digiflyer\" border=\"1\" style=\"max-width: 500px;\"></a>"; 
 ?></td>
    </tr>
    <tr>
