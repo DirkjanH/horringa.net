@@ -29,9 +29,9 @@ if (!$fgmembersite->CheckLogin()) {
         <span class="w3-opennav w3-hide-large w3-xxlarge" onclick="w3_open()">&#9776;</span>
         <div class="w3-content w3-panel w3-card-8 w3-center">
             <p>Passport Dirkjan Horringa:</p>
-            <p><img src="images/pas_DjH.jpg" alt="paspoort DjH" width="700" height="1010"></p>
+            <p><img src="images/pas_DjH.jpg" alt="paspoort DjH" width="700"></p>
             <p>Passport Annemieke Zwanenburg: </p>
-            <p><img src="images/pas_AZ.jpg" alt="paspoort AZ" width="700" height="1024"></p>
+            <p><img src="images/pas_AZ.jpg" alt="paspoort AZ" width="700"></p>
             <p>Driving license Dirkjan Horringa #1:</p>
             <p><img src="images/rijbewijs_1.jpg" width="703" height="439" alt="rijbewijs 1"></p>
             <p>Driving license Dirkjan Horringa #1:</p>
