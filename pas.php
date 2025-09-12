@@ -23,10 +23,14 @@
             <p><img src="images/pas_DjH.jpg" alt="paspoort DjH" width="700"></p>
             <p>Passport Annemieke Zwanenburg: </p>
             <p><img src="images/pas_AZ.jpg" alt="paspoort AZ" width="700"></p>
-            <p>Driving license Dirkjan Horringa #1:</p>
-            <p><img src="images/rijbewijs_1.jpg" width="703" height="439" alt="rijbewijs 1"></p>
-            <p>Driving license Dirkjan Horringa #1:</p>
-            <p><img src="images/rijbewijs_2.jpg" width="703" height="458" alt=""></p>
+            <p>Driving license Dirkjan Horringa front:</p>
+            <p><img src="images/rijbewijs_1.jpg" width="703" alt="rijbewijs 1"></p>
+            <p>Driving license Dirkjan Horringa back:</p>
+            <p><img src="images/rijbewijs_2.jpg" width="703" alt="rijbewijs 2"></p>
+            <p>Car registration front:</p>
+            <p><img src="images/kenteken_1.jpg" width="703" alt="kenteken 1"></p>
+            <p>Car registration back:</p>
+            <p><img src="images/kenteken_2.jpg" width="703" alt="kenteken 2">></p>
         </div>
         <h4><a href="javascript: history.go(-1)">Terug</a></h4>
     </div>
