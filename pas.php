@@ -21,12 +21,18 @@
         <div class="w3-content w3-panel w3-card-8 w3-center">
             <p>Passport Dirkjan Horringa:</p>
             <p><img src="images/pas_DjH.jpg" alt="paspoort DjH" width="700"></p>
+        </div>
+        <div class="w3-content w3-panel w3-card-8 w3-center">
             <p>Passport Annemieke Zwanenburg: </p>
             <p><img src="images/pas_AZ.jpg" alt="paspoort AZ" width="700"></p>
+        </div>
+        <div class="w3-content w3-panel w3-card-8 w3-center">
             <p>Driving license Dirkjan Horringa front:</p>
             <p><img src="images/rijbewijs_1.jpg" width="703" alt="rijbewijs 1"></p>
             <p>Driving license Dirkjan Horringa back:</p>
             <p><img src="images/rijbewijs_2.jpg" width="703" alt="rijbewijs 2"></p>
+        </div>
+        <div class="w3-content w3-panel w3-card-8 w3-center">
             <p>Car registration front:</p>
             <p><img src="images/kenteken_1.jpg" width="703" alt="kenteken 1"></p>
             <p>Car registration back:</p>
