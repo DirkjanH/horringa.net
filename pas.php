@@ -36,7 +36,7 @@
             <p>Car registration front:</p>
             <p><img src="images/kenteken_1.jpg" width="703" alt="kenteken 1"></p>
             <p>Car registration back:</p>
-            <p><img src="images/kenteken_2.jpg" width="703" alt="kenteken 2">></p>
+            <p><img src="images/kenteken_2.jpg" width="703" alt="kenteken 2"></p>
         </div>
         <h4><a href="javascript: history.go(-1)">Terug</a></h4>
     </div>
